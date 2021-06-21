@@ -1,0 +1,13 @@
+C:\Users\Daddyeus\source\repos\MovingAssAround\MovingAssAround\obj\Debug\netcoreapp3.1\MovingAssAround.csprojAssemblyReference.cache
+C:\Users\Daddyeus\source\repos\MovingAssAround\MovingAssAround\obj\Debug\netcoreapp3.1\MovingAssAround.AssemblyInfoInputs.cache
+C:\Users\Daddyeus\source\repos\MovingAssAround\MovingAssAround\obj\Debug\netcoreapp3.1\MovingAssAround.AssemblyInfo.cs
+C:\Users\Daddyeus\source\repos\MovingAssAround\MovingAssAround\obj\Debug\netcoreapp3.1\MovingAssAround.csproj.CoreCompileInputs.cache
+C:\Users\Daddyeus\source\repos\MovingAssAround\MovingAssAround\bin\Debug\netcoreapp3.1\MovingAssAround.exe
+C:\Users\Daddyeus\source\repos\MovingAssAround\MovingAssAround\bin\Debug\netcoreapp3.1\MovingAssAround.deps.json
+C:\Users\Daddyeus\source\repos\MovingAssAround\MovingAssAround\bin\Debug\netcoreapp3.1\MovingAssAround.runtimeconfig.json
+C:\Users\Daddyeus\source\repos\MovingAssAround\MovingAssAround\bin\Debug\netcoreapp3.1\MovingAssAround.runtimeconfig.dev.json
+C:\Users\Daddyeus\source\repos\MovingAssAround\MovingAssAround\bin\Debug\netcoreapp3.1\MovingAssAround.dll
+C:\Users\Daddyeus\source\repos\MovingAssAround\MovingAssAround\bin\Debug\netcoreapp3.1\MovingAssAround.pdb
+C:\Users\Daddyeus\source\repos\MovingAssAround\MovingAssAround\obj\Debug\netcoreapp3.1\MovingAssAround.dll
+C:\Users\Daddyeus\source\repos\MovingAssAround\MovingAssAround\obj\Debug\netcoreapp3.1\MovingAssAround.pdb
+C:\Users\Daddyeus\source\repos\MovingAssAround\MovingAssAround\obj\Debug\netcoreapp3.1\MovingAssAround.genruntimeconfig.cache
